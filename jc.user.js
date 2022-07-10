@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         自动机惨系统
 // @namespace    https://www.d0j1a1701.cc
-// @version      0.1
+// @version      0.2
 // @description  IAKIOI!
 // @author       d0j1a_1701
 // @match        https://www.luogu.com.cn/
